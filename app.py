@@ -1,5 +1,7 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for, Response
 from flask_sqlalchemy import SQLAlchemy
+
+import helper
 
 app = Flask(__name__)
 
@@ -44,6 +46,15 @@ def delete(todo_id):
     db.session.delete(todo)
     db.session.commit()
     return redirect(url_for("home"))
+
+
+@app.route("/download_csv")
+def download_csv():
+    return Response(
+        helper.get_csv(),
+        mimetype="text/csv",
+        headers={"Content-disposition": "attachment; filename=todo.csv"},
+    )
 
 
 if __name__ == "__main__":

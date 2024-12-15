@@ -22,6 +22,8 @@
             <button class="ui blue button" type="submit">Add</button>
         </form>
 
+        <a href="{{ url_for('download_csv') }}">Download CSV</a>
+
         <hr>
 
         {% for todo in todo_list %}
@@ -38,6 +40,10 @@
             <a class="ui red button" href="/delete/{{ todo.id }}">Delete</a>
         </div>
         {% endfor %}
+
+
+
+
     </div>
 </body>
 
