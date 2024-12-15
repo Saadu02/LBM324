@@ -13,6 +13,11 @@
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/instance/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/instance/db.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/LBM324SuganthasriSathana.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,42 +27,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Saadu02"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Saadu02/LBM324.git",
-    "accountId": "1beef078-ea6b-434d-bdee-ff186d761366"
-  }
-}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+    "customColor": "",
+    "associatedIndex": 4
+  }]]></component>
   <component name="ProjectId" id="2qFlIli9Z1DpOFzVpCGUK65y21o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "issue2-add-pre-commit",
-    "last_opened_file_path": "C:/Users/sugan/OneDrive - BBBaden/BBBadenschule/modul-bbbaden MO/3.Jahr/alt/LBM324SuganthasriSathana",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+    "keyToString": {
+      "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+      "RunOnceActivity.ShowReadmeOnStart": "true",
+      "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+      "git-widget-placeholder": "main",
+      "last_opened_file_path": "C:/Users/sugan/OneDrive - BBBaden/BBBadenschule/modul-bbbaden MO/3.Jahr/LBM324SuganthasriSathana",
+      "nodejs_package_manager_path": "npm",
+      "vue.rearranger.settings.migration": "true"
+    }
+  }]]></component>
   <component name="RunManager">
     <configuration name="LBM324SuganthasriSathana" type="PythonConfigurationType" factoryName="Python">
       <module name="LBM324SuganthasriSathana" />
@@ -99,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734266129607</updated>
-      <workItem from="1734266131526" duration="2521000" />
+      <workItem from="1734266131526" duration="298000" />
     </task>
     <servers />
   </component>
