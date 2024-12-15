@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="243da5aa-c8d1-4b14-a273-1354b41be864" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/instance/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/LBM324SuganthasriSathana.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="243da5aa-c8d1-4b14-a273-1354b41be864" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,26 +13,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-    "customColor": "",
-    "associatedIndex": 4
-  }]]></component>
+  <component name="ProjectColorInfo">{
+    &quot;customColor&quot;: &quot;&quot;,
+    &quot;associatedIndex&quot;: 4
+  }</component>
   <component name="ProjectId" id="2qFlIli9Z1DpOFzVpCGUK65y21o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
-    "keyToString": {
-      "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-      "RunOnceActivity.ShowReadmeOnStart": "true",
-      "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-      "git-widget-placeholder": "main",
-      "last_opened_file_path": "C:/Users/sugan/OneDrive - BBBaden/BBBadenschule/modul-bbbaden MO/3.Jahr/LBM324SuganthasriSathana",
-      "nodejs_package_manager_path": "npm",
-      "vue.rearranger.settings.migration": "true"
-    }
-  }]]></component>
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "issue-testfaelleV2",
+    "last_opened_file_path": "C:/Users/sugan/OneDrive - BBBaden/BBBadenschule/modul-bbbaden MO/3.Jahr/LBM324SuganthasriSathana",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="LBM324SuganthasriSathana" type="PythonConfigurationType" factoryName="Python">
       <module name="LBM324SuganthasriSathana" />
