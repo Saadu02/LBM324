@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="243da5aa-c8d1-4b14-a273-1354b41be864" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_helper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance/db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/instance/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734266129607</updated>
-      <workItem from="1734266131526" duration="2521000" />
+      <workItem from="1734266131526" duration="4833000" />
     </task>
     <servers />
   </component>
