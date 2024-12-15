@@ -1,5 +1,4 @@
 # IDE- und Editor-spezifische Dateien
-.idea/
 .vscode/
 *.iml
 
