@@ -14,3 +14,12 @@ def test_sort():
 
     for i in range(len(helper.items) - 1):
         assert helper.items[i].date < helper.items[i + 1].date
+
+
+def test_add_with_category():
+    helper.items.clear()  # Leeren Sie die Liste vor dem Test
+    helper.add("Universum debuggen", "2023-09-06", "Wissenschaft")
+    helper.add("Sinn des Lebens entdecken", "2023-09-01", "Philosophie")
+
+    assert helper.items[0].category == "Philosophie"
+    assert helper.items[1].category == "Wissenschaft"
