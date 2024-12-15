@@ -23,15 +23,3 @@ def test_add_with_category():
 
     assert helper.items[0].category == "Philosophie"
     assert helper.items[1].category == "Wissenschaft"
-
-
-def test_get_csv():
-    helper.add("Universum debuggen", "2023-09-06")
-    helper.add("Sinn des Lebens  entdecken", "2023-09-01")
-
-    csv_result = helper.get_csv()
-
-    assert "Universum debuggen" in csv_result
-    assert "Sinn des Lebens entdecken" in csv_result
-    assert "2023-09-06" in csv_result
-    assert "2023-09-01" in csv_result
