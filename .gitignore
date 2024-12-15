@@ -1,0 +1,28 @@
+# IDE- und Editor-spezifische Dateien
+.idea/
+.vscode/
+*.iml
+
+# Python Cache-Dateien
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite Datenbanken
+instance/db.sqlite
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Logs und temporäre Dateien
+*.log
+*.tmp
+
+# Test Coverage-Dateien
+.coverage
+htmlcov/
+
+# Pre-commit und virtuelle Umgebungen
+.venv/
+env/
