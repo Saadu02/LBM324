@@ -27,7 +27,7 @@ def test_add_with_category():
 
 def test_get_csv():
     helper.add("Universum debuggen", "2023-09-06")
-    helper.add("Sinn des Lebens entdecken", "2023-09-01")
+    helper.add("Sinn des Lebens  entdecken", "2023-09-01")
 
     csv_result = helper.get_csv()
 
