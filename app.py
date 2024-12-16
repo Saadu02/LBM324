@@ -46,6 +46,15 @@ def delete(todo_id):
     return redirect(url_for("home"))
 
 
+@app.route("/download_csv")
+def download_csv():
+    return Response(
+        helper.get_csv(),
+        mimetype="text/csv",
+        headers={"Content-disposition": "attachment; filename=todo.csv"},
+    )
+
+
 if __name__ == "__main__":
     with app.app_context():  # App-Kontext manuell setzen
         db.create_all()  # Datenbanktabellen erstellen
