@@ -58,4 +58,4 @@ def download_csv():
 if __name__ == "__main__":
     with app.app_context():  # App-Kontext manuell setzen
         db.create_all()  # Datenbanktabellen erstellen
-    app.run(debug=True)
+    app.run(host="0.0.0.0")
